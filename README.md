@@ -16,3 +16,6 @@ To create a Person, invoke a POST http://localhost:8080/swaggy-sample/persons, w
 
 ## API Docs
 The API docs are automatically generated and are available at http://localhost:8080/swaggy-sample/api/index
+
+# Info
+This sample is based on http://grails.org/plugin/swaggydoc plugin, which, in turn, is an implementation of http://swagger.io/
